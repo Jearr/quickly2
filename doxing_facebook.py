@@ -1,13 +1,14 @@
 #!/usr/bin/python3
 
-""" author: qwart 2.0 | twitter: @qwartz_ | Credits for page: http://stalkscan.com/"""
+""" author: qwart 2.0 | twitter: @qwartz_ """
+#Credits for: RedBird & http://stalkscan.com/
 
 #colors
 cyan="\033[1;36m"
 green="\033[1;32m"
 reset="\033[00m"
 
-print('Easy Doxing For Facebook\n')
+print('Easy Doxing For Facebook | Credits: RedBird & http://stalkscan.com/\n')
 user_id = input("What is the profile_id: ")
 
 print(cyan,'\n___Profile___',reset)
