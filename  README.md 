@@ -1,0 +1,22 @@
+# Stalker
+Easy Doxing For Facebook
+
+Author: [@qwartz 2.0](https://twitter.com/qwartz_)
+
+## Installation
+```shell
+git clone https://gist.github.com/700cce61df2a1704818a8ec0c7c30fb1.git stalker
+cd stalker
+python3 stalker.py
+```
+## use
+```shell
+ show options      View search options
+ set option=value  Set value from element
+ run               Start
+ reset             Reset values
+ clear	           Clear current screen
+ help              Show help
+ quit	             Close stalker
+```
+
